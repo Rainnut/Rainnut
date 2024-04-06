@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Rainnut/Rainnut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏢 I'm currently working at Joyy
+- 🚀 I use daily: **JavaScript**, **Git**, **Bash**, **VS Code**, **Obsidian**
+- 💻 I work using: **React**, **Antd**, **Qwik**, **Bit**, **Nest**, **GitHub**
+- 🌱 目前在学习微前端
+- 🤔 最近在思考如何成为一名独立开发者，希望能有一些其他收入的渠道
+- 💬 前端开发、有赚钱的好点子💡也欢迎各位大佬一起交流
 
-Here are some ideas to get you started:
+### 代码统计
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=Rainnut)
+
+<b>:performing_arts: Leave a message to me? </b>--> <https://github.com/Rainnut/Rainnut/issues>
