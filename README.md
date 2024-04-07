@@ -5,7 +5,7 @@
 <br>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-- 🏢 I'm currently working at **Joyy**
+- 🏢 I'm currently working at **J-O-Y-Y**
 - 🚀 I use daily: **JavaScript**, **Git**, **Bash**, **VS Code**, **Obsidian**
 - 💻 I work using: **React**, **Antd**, **Qwik**, **Bit**, **Nest**, **GitHub**
 - 🌱 目前在学习微前端
